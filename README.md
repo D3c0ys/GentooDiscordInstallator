@@ -7,3 +7,6 @@ just copy commands below and paste it on your terminal
 ```
 wget https://raw.githubusercontent.com/D3c0ys/GentooDiscordInstallator/main/DiscordInstaller.sh -o DiscordInstaller.sh; chmod +x DiscordInstaller.sh; sudo ./DiscordInstaller.sh
 ```
+
+edit: just realized it's the same code as Arch Linux Discord installer
+so this code would theoretically work for all Linux
